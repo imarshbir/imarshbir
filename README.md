@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @im Arshbir Singh
 - 👀 I’m interested in coding, photography
 - 🌱 I’m currently learning python coding 
-- 💞️ I’m looking to collaborate on school python projects
+- 💞️ I’m looking to collaborate on IoT & python projects
 
 
 <!---
